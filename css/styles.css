@@ -197,7 +197,8 @@ header{
 
 .agregar-imagen{
     object-fit: cover;
-    width: 60%;
+    height: 70%;
+    width: 30%;
     border-radius: 10px;
     transform: scale(0);
     transition: transform .3s .2s;
